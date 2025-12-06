@@ -1,11 +1,34 @@
-# 🗳️ Voting System in Python  
+# 🗳️ Python Voting System
 
-**English:**  
-This is a simple Python script that simulates a voting system. Users can vote for one of two candidates: **Markus** or **Anderias**. The program first asks how many voters will participate, then each voter is prompted to choose a candidate. All votes are counted, and at the end the program prints the winner. The input is case-insensitive, so writing `Markus` or `markus` will both work.  
-
-**Deutsch:**  
-Dies ist ein einfaches Python-Skript, das ein Abstimmungssystem simuliert. Benutzer können für einen von zwei Kandidaten stimmen: **Markus** oder **Anderias**. Das Programm fragt zuerst, wie viele Wähler teilnehmen werden, anschließend wird jeder Wähler aufgefordert, einen Kandidaten auszuwählen. Alle Stimmen werden gezählt, und am Ende gibt das Programm den Gewinner aus. Die Eingabe ist nicht zwischen Groß- und Kleinschreibung unterscheidend (z. B. `Markus` oder `markus`).  
+Ein einfaches, interaktives Python-Wahlsystem.  
+Benutzer können eine bestimmte Anzahl an Wählern festlegen, Stimmen abgeben und das Programm zählt automatisch die Ergebnisse.
 
 ---
 
-## 📂 Project Structure
+## 🚀 Funktionen
+- Benutzer definiert, wie viele Personen teilnehmen  
+- Jede Person gibt ihre Stimme für einen von zwei Kandidaten ab  
+- Das Programm speichert jede Stimme  
+- Automatische Auswertung am Ende  
+- Ausgabe des Gewinners + Anzahl der Stimmen
+
+---
+
+## 🧠 Ziel des Projekts
+Dieses Projekt zeigt folgende Grundprinzipien der Programmierung:
+- Eingaben vom Benutzer (Input)  
+- Schleifen (`for`)  
+- Bedingungen (`if / else`)  
+- Listen zur Datenspeicherung  
+- Logisches Denken & Entscheidungsstrukturen  
+- Konsolenbasierte Programme
+
+---
+
+## 🛠 Technologien
+- **Python 3**
+- Standardbibliotheken (keine externen Abhängigkeiten)
+
+---
+
+## 📁 Projektstruktur
